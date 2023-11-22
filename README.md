@@ -1,8 +1,11 @@
-# React + Vite
+# Frontend - Prueba Técnica - Resimple
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Vista simple usando los componentes accordion y table de Material UI.
 
-Currently, two official plugins are available:
+Este sistema fue creado en base a una prueba tecnica para la empresa resimple.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Instrucciones de instalacion y ejecucion del proyecto.
+
+- Clonar el proyecto.
+- Instalar dependencias ejecutando en la consola el comando npm install.
+- Ejecutar el proyecto con npm run dev en la consola.
